@@ -1,0 +1,6 @@
+# Raw and cleaned data are rebuilt with scripts/prepare_data.py (see data/README.md)
+data/*.csv
+data/*.zip
+
+.DS_Store
+__pycache__/
